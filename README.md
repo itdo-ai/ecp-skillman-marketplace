@@ -4,6 +4,8 @@ Claude Code plugin marketplace, managed with [ecp-skillman](https://github.com/e
 
 ## Install
 
+### Claude Code
+
 Add this marketplace in Claude Code:
 
 ```
@@ -15,6 +17,14 @@ Then install a plugin:
 ```
 /plugin install ecp-main@ecp-skillman-marketplace
 /plugin install ecp-default@ecp-skillman-marketplace
+```
+
+### Other Agents
+
+You can also use these skills with other AI agents via [Vercel Labs Skills](https://github.com/vercel-labs/skills):
+
+```bash
+npx skills add itdo-ai/ecp-skillman-marketplace
 ```
 
 ## Plugins
@@ -51,14 +61,6 @@ Default Group (Plugin)
 - `algorithmic-art`
 - `brand-guidelines`
 - `tdd`
-
-## Other Agents
-
-You can also use these skills with other AI agents via [Vercel Labs Skills](https://github.com/vercel-labs/skills):
-
-```bash
-npx skills add itdo-ai/ecp-skillman-marketplace
-```
 
 ---
 
