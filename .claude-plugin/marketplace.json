@@ -1,6 +1,6 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
-  "name": "ecp-skillman-marketplace2",
+  "name": "ecp-skillman-marketplace",
   "owner": {
     "name": "itdo-ai"
   },
@@ -12,13 +12,13 @@
       "name": "ecp-main",
       "source": "./plugins/ecp-main",
       "description": "Default plugin (skill group)",
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "name": "ecp-default",
       "source": "./plugins/ecp-default",
       "description": "Default Group (Plugin)",
-      "version": "0.1.0"
+      "version": "0.1.1"
     }
   ]
 }

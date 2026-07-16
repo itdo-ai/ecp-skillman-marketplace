@@ -1,4 +1,4 @@
-# ecp-skillman-marketplace2
+# ecp-skillman-marketplace
 
 Claude Code plugin marketplace, managed with [ecp-skillman](https://github.com/ecp-skillman).
 
@@ -7,19 +7,19 @@ Claude Code plugin marketplace, managed with [ecp-skillman](https://github.com/e
 Add this marketplace in Claude Code:
 
 ```
-/plugin marketplace add itdo-ai/ecp-skillman-marketplace2
+/plugin marketplace add itdo-ai/ecp-skillman-marketplace
 ```
 
 Then install a plugin:
 
 ```
-/plugin install ecp-main@ecp-skillman-marketplace2
-/plugin install ecp-default@ecp-skillman-marketplace2
+/plugin install ecp-main@ecp-skillman-marketplace
+/plugin install ecp-default@ecp-skillman-marketplace
 ```
 
 ## Plugins
 
-### ecp-main (v0.1.0)
+### ecp-main (v0.1.1)
 
 Default plugin (skill group)
 
@@ -44,7 +44,7 @@ Default plugin (skill group)
 - `teach`
 - `zoom-out`
 
-### ecp-default (v0.1.0)
+### ecp-default (v0.1.1)
 
 Default Group (Plugin)
 
@@ -57,7 +57,7 @@ Default Group (Plugin)
 You can also use these skills with other AI agents via [Vercel Labs Skills](https://github.com/vercel-labs/skills):
 
 ```bash
-npx skills add itdo-ai/ecp-skillman-marketplace2
+npx skills add itdo-ai/ecp-skillman-marketplace
 ```
 
 ---
