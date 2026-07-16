@@ -28,7 +28,7 @@ npx skills add itdo-ai/ecp-skillman-marketplace
 
 ## Plugins
 
-### ecp-main (v0.1.1)
+### ecp-main (v0.1.2)
 
 Core skills
 
@@ -36,8 +36,6 @@ Core skills
 - `design-an-interface-2`
 - `design-an-interface-3`
 - `diagnosing-bugs`
-- `qa`
-- `sql-e2e-renamed`
 
 ---
 
