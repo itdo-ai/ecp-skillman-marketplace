@@ -1,0 +1,8 @@
+{
+  "name": "ecp-default",
+  "description": "Default Group (Plugin)",
+  "version": "0.1.0",
+  "author": {
+    "name": "itdo-ai"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "ecp-skillman-marketplace2",
+  "owner": {
+    "name": "itdo-ai"
+  },
+  "metadata": {
+    "description": "Curated Claude Code skills, managed with ecp-skillman"
+  },
+  "plugins": [
+    {
+      "name": "ecp-main",
+      "source": "./plugins/ecp-main",
+      "description": "Default plugin (skill group)",
+      "version": "0.1.0"
+    },
+    {
+      "name": "ecp-default",
+      "source": "./plugins/ecp-default",
+      "description": "Default Group (Plugin)",
+      "version": "0.1.0"
+    }
+  ]
+}
