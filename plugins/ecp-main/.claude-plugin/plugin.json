@@ -1,6 +1,6 @@
 {
   "name": "ecp-main",
-  "description": "Default plugin (skill group)",
+  "description": "Core skills",
   "version": "0.1.1",
   "author": {
     "name": "itdo-ai"

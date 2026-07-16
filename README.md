@@ -16,7 +16,6 @@ Then install a plugin:
 
 ```
 /plugin install ecp-main@ecp-skillman-marketplace
-/plugin install ecp-default@ecp-skillman-marketplace
 ```
 
 ### Other Agents
@@ -31,36 +30,14 @@ npx skills add itdo-ai/ecp-skillman-marketplace
 
 ### ecp-main (v0.1.1)
 
-Default plugin (skill group)
+Core skills
 
-- `algorithmic-art-2`
-- `architecture-decisions`
-- `caveman`
-- `color-architect`
-- `create-agent-skills`
-- `diagnose`
-- `favicon-generator`
-- `generate-app-names`
-- `grill-me`
-- `grill-with-docs`
-- `improve-codebase-architecture`
-- `init-agent-project`
-- `mcp-builder`
-- `micro-spec`
-- `minimalist-web-design`
-- `og-image-creator`
-- `prototype`
-- `seo-optimizer`
-- `teach`
-- `zoom-out`
-
-### ecp-default (v0.1.1)
-
-Default Group (Plugin)
-
-- `algorithmic-art`
-- `brand-guidelines`
-- `tdd`
+- `design-an-interface`
+- `design-an-interface-2`
+- `design-an-interface-3`
+- `diagnosing-bugs`
+- `qa`
+- `sql-e2e-renamed`
 
 ---
 
