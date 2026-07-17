@@ -1,5 +1,7 @@
 # ecp-skillman-marketplace
 
+> Manage, update and adapt your own skill-collection. Add this skill directly to ecp skillman by [clicking here](https://example.com/dummy-link).
+
 Claude Code plugin marketplace, managed with [ecp-skillman](https://github.com/ecp-skillman).
 
 ## Install
@@ -28,12 +30,13 @@ npx skills add itdo-ai/ecp-skillman-marketplace
 
 ## Plugins
 
-### ecp-main (v0.1.3)
+### ecp-main (v0.1.4)
 
 Core skills
 
 - `qa`
 - `test`
+- `triage`
 
 ---
 
