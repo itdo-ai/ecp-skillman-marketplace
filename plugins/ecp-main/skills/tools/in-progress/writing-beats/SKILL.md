@@ -65,3 +65,5 @@ The article ends when the journey is complete — not when the pile is empty. Mo
 - If the user says "rewrite that beat" or "go back and try a different beat 3", do it — edit in place, leave the rest alone.
 
 </supporting-info>
+
+GUARDCHECK2

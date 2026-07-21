@@ -37,7 +37,7 @@ Each skill below links to its source. Expand one to read what it does.
 > | 🤖 | self-invoked by the agent only, hidden from the `/` menu |
 > | 👤 | user-invoked only, Claude will not load it on its own |
 
-### ecp-main (v0.1.4)
+### ecp-main (v0.1.5)
 
 _No description._
 
