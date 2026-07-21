@@ -11,8 +11,8 @@
     {
       "name": "ecp-main",
       "source": "./plugins/ecp-main",
-      "description": "Core skills",
-      "version": "0.1.7"
+      "description": "Skills: imported/skills/algorithmic-art, imported/template-skill, tools/engineering/ask-matt, tools/engineering/code-review, tools/engineering/codebase-design, tools/engineering/diagnosing-bugs, tools/engineering/domain-modeling, tools/engineering/grill-with-docs, tools/engineering/implement, tools/engineering/improve-codebase-architecture, tools/engineering/prototype, tools/engineering/research, tools/engineering/resolving-merge-conflicts, tools/engineering/setup-matt-pocock-skills, tools/engineering/tdd, tools/engineering/to-spec, tools/engineering/to-tickets, tools/engineering/triage, tools/engineering/wayfinder, tools/in-progress/batch-grill-me, tools/in-progress/claude-handoff, tools/in-progress/loop-me, tools/in-progress/setup-ts-deep-modules, tools/in-progress/to-questionnaire, tools/in-progress/wizard, tools/in-progress/writing-beats, tools/in-progress/writing-fragments, tools/in-progress/writing-shape, tools/misc/git-guardrails-claude-code, tools/misc/migrate-to-shoehorn, tools/misc/scaffold-exercises, tools/misc/setup-pre-commit, tools/nested-demo, tools/personal/edit-article, tools/personal/obsidian-vault, tools/productivity/grill-me, tools/productivity/grilling, tools/productivity/handoff, tools/productivity/teach, tools/productivity/writing-great-skills, tools/skills/design-an-interface, tools/skills/qa, tools/skills/request-refactor-plan, tools/skills/ubiquitous-language",
+      "version": "0.1.1"
     }
   ]
 }
