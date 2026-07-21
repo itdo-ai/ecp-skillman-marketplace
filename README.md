@@ -37,18 +37,12 @@ Each skill below links to its source. Expand one to read what it does.
 > | 🤖 | self-invoked by the agent only, hidden from the `/` menu |
 > | 👤 | user-invoked only, Claude will not load it on its own |
 
-### ecp-main (v0.1.5)
+### ecp-main (v0.1.6)
 
 _No description._
 
 <details>
 <summary>🤖👤 <a href="plugins/ecp-main/skills/prog-probe-a"><code>prog-probe-a</code></a></summary>
-
-probe
-
-</details>
-<details>
-<summary>🤖👤 <a href="plugins/ecp-main/skills/prog-probe-b"><code>prog-probe-b</code></a></summary>
 
 probe
 
