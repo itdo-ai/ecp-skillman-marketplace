@@ -1,0 +1,8 @@
+{
+  "name": "ecp-empty",
+  "description": "Skills: architecture-decisions, caveman, color-architect, create-agent-skills, diagnose, favicon-generator, generate-app-names, grill-me, grill-with-docs, improve-codebase-architecture, init-agent-project, mcp-builder, micro-spec, minimalist-web-design, og-image-creator, prototype, seo-optimizer, tdd, teach, zoom-out",
+  "version": "0.1.2",
+  "author": {
+    "name": "itdo-ai"
+  }
+}
